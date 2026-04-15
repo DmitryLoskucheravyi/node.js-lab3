@@ -1,0 +1,39 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# coverage
+coverage/
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jest cache
+.jest/
+
+# TypeScript
+*.tsbuildinfo
+
+# temporary files
+tmp/
+temp/
